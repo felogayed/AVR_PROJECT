@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Smart_Home_Project_slave", "Smart_Home_Project_slave\Smart_Home_Project_slave.cproj", "{F85E26CE-4E56-4A36-9ECD-B40811321CAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F85E26CE-4E56-4A36-9ECD-B40811321CAC}.Debug|AVR.ActiveCfg = Debug|AVR
+		{F85E26CE-4E56-4A36-9ECD-B40811321CAC}.Debug|AVR.Build.0 = Debug|AVR
+		{F85E26CE-4E56-4A36-9ECD-B40811321CAC}.Release|AVR.ActiveCfg = Release|AVR
+		{F85E26CE-4E56-4A36-9ECD-B40811321CAC}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
